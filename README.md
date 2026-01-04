@@ -1,4 +1,3 @@
-<!-- LiquidStaked_20260104191907_4688 -->
 
 # LiquidStaked: Empowering Enterprise-Grade Edge Performance
 > "Decentralized, transparent, and scalable edge computing for the modern enterprise"
